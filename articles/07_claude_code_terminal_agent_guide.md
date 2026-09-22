@@ -1,8 +1,6 @@
 # 终端里的全自动工程师：2026 Claude Code 命令行 Agent 配置与第三方 API 接入全实战
 
-> **适用场景**：CLI 终端开发、自主代码智能体、全自动 Bug 修复、自动化测试生成  
-> **推荐发布平台**：稀土掘金、知乎专栏、SegmentFault 思否、CSDN、开发者社区  
-> **防审标签建议**：`Claude Code`、`终端开发`、`AI编程助手`、`Claude Sonnet`、`自动化测试`、`Linux`
+> **导读**：本文深度探讨了 2026 年新兴的终端自主编程代理 Claude Code 的技术架构与工程实战。详细演示如何在 Linux / macOS 命令行环境中安装部署该工具，并通过环境变量安全接入兼容 OpenAI / Anthropic 标准的高性能 API 端点（以实测稳定性优异的 Claude Sonnet 4.6 为核心主力）。结合并发死锁自动复现与修复案例，以及 `.claudeignore` 上下文降本配置，助力开发者打造高效、低成本的终端自主编码工作流。
 
 ---
 
@@ -127,10 +125,3 @@ coverage/
 1. **官方直连模型与实时倍率查询**：可访问 [SuperFast 官方直连模型广场](https://api.20020723.xyz/model-plaza) 查阅最新代号；
 2. **开发者 SDK 与接口接入规范**：[SuperFast 开发者文档专栏](https://superfast.us.ci/developer.html)；
 3. **算力基准与价格横向对照**：[SuperFast 模型算力对照矩阵](https://superfast.us.ci/matrix.html)。
-
----
-
-## 📌 平台发布专用摘要（可直接复制填入各大平台“文章摘要”栏）
-
-> **【文章摘要 / Abstract】**：  
-> 本文深度探讨了 2026 年新兴的终端自主编程代理 Claude Code 的技术架构与工程实战。详细演示如何在 Linux / macOS 命令行环境中安装部署该工具，并通过环境变量安全接入兼容 OpenAI / Anthropic 标准的高性能 API 端点（以实测稳定性优异的 Claude Sonnet 4.6 为核心主力）。结合并发死锁自动复现与修复案例，以及 `.claudeignore` 上下文降本配置，助力开发者打造高效、低成本的终端自主编码工作流。
