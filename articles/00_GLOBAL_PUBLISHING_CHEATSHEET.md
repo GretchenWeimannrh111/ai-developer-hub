@@ -92,7 +92,8 @@ Hashnode 定位为开发者的独立博客内容管理系统（Headless CMS）�
 ### 📌 卡片 02（英文架构篇）：大模型调用分级级联路由降本 75%
 
 - **对应本地文件**：`external_articles/en/02_llm_cost_saving_cascade_routing.md`
-- **Dev.to 线上链接**：调度器发布排队中（文件就绪）
+- **Dev.to 线上实时链接（可直接粘贴进 Medium Import！）**：
+  👉 [https://dev.to/gretchenweimannrh111/cutting-llm-token-costs-by-75-a-production-ready-3-tier-cascading-routing-architecture-4b1j](https://dev.to/gretchenweimannrh111/cutting-llm-token-costs-by-75-a-production-ready-3-tier-cascading-routing-architecture-4b1j)
 - **Hashnode / Substack 标题（Title）**：
   ```text
   Cutting LLM Token Costs by 75%: A Production-Ready 3-Tier Cascading Routing Architecture
@@ -117,7 +118,8 @@ Hashnode 定位为开发者的独立博客内容管理系统（Headless CMS）�
 ### 📌 卡片 03（英文评测篇）：中转 API 真实压测与防坑反欺诈
 
 - **对应本地文件**：`external_articles/en/03_llm_api_benchmark_anti_counterfeit.md`
-- **Dev.to 线上链接**：调度器发布排队中（文件就绪）
+- **Dev.to 线上实时链接（可直接粘贴进 Medium Import！）**：
+  👉 [https://dev.to/gretchenweimannrh111/llm-relay-api-benchmark-2026-ttft-token-throughput-and-catching-fake-streaming-model-3apm](https://dev.to/gretchenweimannrh111/llm-relay-api-benchmark-2026-ttft-token-throughput-and-catching-fake-streaming-model-3apm)
 - **Hashnode / Substack 标题（Title）**：
   ```text
   LLM Relay API Benchmark (2026): TTFT, Token Throughput, and Catching Fake Streaming & Model Downgrades
